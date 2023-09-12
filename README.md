@@ -32,7 +32,6 @@ If you ever are interested in helping out in projects or need help u can add me 
 
 # Happy coding and adios
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonnyvanEijk&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonnyvanEijk)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=DonnyvanEijk&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,laravel,figma,discord,dotnet,cs,c,cpp,haxe,python,java,ts)](https://skillicons.dev)
 
