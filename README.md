@@ -20,16 +20,16 @@ full on pokemon remake for a GameJam and the journey so far is just straigt up a
 
 Back to the future aka now we finnaly have my beautifull intership where i learn so much everyday and even now i am still learning how to make cool things with three.js next.js and larravel php
 
-## My first big personal project
+### My first big personal project
 
 As my first big personal goal i wanted to attend to a GameJam and at the time i was a javascript only developer. So i was looking for GameJams with javascript and i found GameDev.js as my first ever gamejam. I started with the
 project with my classmates Marc and Lawaz. We made a game about time-travelling advwenture and humor . and lets just say we weren't last place, and thats amazing for me that means that i straight up outmastered some developers in my skills
 this gamejam also tought me that deadlines are a imoportant thing to look at and that its importatnt to have something done.
 
-##Socials
+#### Socials
 
 If you ever are interested in helping out in projects or need help u can add me on discord using user: donnyvaneijk873  You can also find me on twiter with the username: "DonnyGames"
 
-#Happy coding and adios
+# Happy coding and adios
 
 
