@@ -35,6 +35,6 @@ If you ever are interested in helping out in projects or need help u can add me 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DonnyvanEijk)](https://github.com/ryo-ma/github-profile-trophy)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,laravel,figma,discord,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,laravel,figma,discord,dotnet,c,csharp,cpp,haxe,python,java,ts)](https://skillicons.dev)
 
 
