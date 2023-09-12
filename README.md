@@ -34,6 +34,5 @@ If you ever are interested in helping out in projects or need help u can add me 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonnyvanEijk&show_icons=true&theme=dracula)
 [![trophy](https://github-profile-trophy.vercel.app/?username=DonnyvanEijk&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,laravel,figma,discord,dotnet,cs,c,cpp,haxe,python,java,ts)](https://skillicons.dev)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DonnyvanEijk&theme=highcontrast)](https://git.io/streak-stats)
 
 
