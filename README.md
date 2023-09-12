@@ -1,7 +1,7 @@
 # Donny van Eijk
 The one and only
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DonnyvanEijk)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 The developer Donny has been around coding since his young ages 
 he always liked to build stuff and play games on the playstation 3 or wii butr was but was always curious
@@ -31,5 +31,7 @@ this gamejam also tought me that deadlines are a imoportant thing to look at and
 If you ever are interested in helping out in projects or need help u can add me on discord using user: donnyvaneijk873  You can also find me on twiter with the username: "DonnyGames"
 
 # Happy coding and adios
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DonnyvanEijk)](https://github.com/ryo-ma/github-profile-trophy)
 
 
