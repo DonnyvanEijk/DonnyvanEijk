@@ -31,6 +31,7 @@ this gamejam also tought me that deadlines are a imoportant thing to look at and
 If you ever are interested in helping out in projects or need help u can add me on discord using user: donnyvaneijk873  You can also find me on twiter with the username: "DonnyGames"
 
 # Happy coding and adios
+[![GitHub Streak](https://streak-stats.demolab.com?user=DonnyvanEijk&theme=shadow-red&hide_border=true)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonnyvanEijk&show_icons=true&theme=dracula)
 [![trophy](https://github-profile-trophy.vercel.app/?username=DonnyvanEijk&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,laravel,figma,discord,dotnet,cs,c,cpp,haxe,python,java,ts)](https://skillicons.dev)
