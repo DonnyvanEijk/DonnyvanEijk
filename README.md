@@ -1,6 +1,11 @@
 # Donny van Eijk
 The one and only
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=DonnyvanEijk&theme=monokai&hide_border=false)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonnyvanEijk&show_icons=true&theme=dracula)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,laravel,figma,discord,dotnet,cs,c,cpp,haxe,python,java,ts)](https://skillicons.dev)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DonnyvanEijk&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 The developer Donny has been around coding since his young ages 
@@ -31,9 +36,3 @@ this gamejam also tought me that deadlines are a imoportant thing to look at and
 If you ever are interested in helping out in projects or need help u can add me on discord using user: donnyvaneijk873  You can also find me on twiter with the username: "DonnyGames"
 
 # Happy coding and adios
-[![GitHub Streak](https://streak-stats.demolab.com?user=DonnyvanEijk&theme=monokai&hide_border=false)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonnyvanEijk&show_icons=true&theme=dracula)
-[![trophy](https://github-profile-trophy.vercel.app/?username=DonnyvanEijk&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,laravel,figma,discord,dotnet,cs,c,cpp,haxe,python,java,ts)](https://skillicons.dev)
-
-
