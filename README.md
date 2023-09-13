@@ -8,7 +8,7 @@ The one and only
 
 
 The developer Donny has been around coding since his young ages 
-he always liked to build stuff and play games on the playstation 3 or wii butr was but was always curious
+he always liked to build stuff and play games on the playstation 3 or wii but was but was always curious
 HOW THEY WHERE BUILD
 
 ## My  Beginning
