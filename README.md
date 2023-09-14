@@ -5,6 +5,7 @@ The one and only
 
 ## My Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=DonnyvanEijk&theme=monokai&hide_border=false)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonnyvanEijk&show_icons=true&theme=dracula)
+<img src="https://myreadme.vercel.app/api/embed/DonnyvanEijk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ## My Trophys
 [![trophy](https://github-profile-trophy.vercel.app/?username=DonnyvanEijk&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
