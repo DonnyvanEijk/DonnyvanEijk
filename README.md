@@ -11,7 +11,7 @@ The one and only
 <img src="https://myreadme.vercel.app/api/embed/DonnyvanEijk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ## My Trophys
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/DonnyvanEijk/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DonnyvanEijk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 The developer Donny has been around coding since his young ages 
