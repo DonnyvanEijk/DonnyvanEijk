@@ -8,7 +8,7 @@ The one and only
 [![GitHub Streak](https://streak-stats.demolab.com?user=DonnyvanEijk&theme=monokai&hide_border=false)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonnyvanEijk&show_icons=true&theme=dracula)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DonnyvanEijk&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-<img src="https://myreadme.vercel.app/api/embed/DonnyvanEijk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
 ## My Trophys
 [![trophy](https://github-profile-trophy.vercel.app/?username=DonnyvanEijk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
