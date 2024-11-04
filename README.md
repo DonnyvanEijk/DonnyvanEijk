@@ -7,9 +7,6 @@ The one and only 💯
 ## My Statistics 📈
 [![GitHub Streak](https://streak-stats.demolab.com?user=DonnyvanEijk&theme=monokai&hide_border=false)](https://git.io/streak-stats) 
 
-
-
-
 ## My Trophys 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=DonnyvanEijk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -22,5 +19,6 @@ HOW THEY WHERE BUILD
 #### Socials 🐦
 
 If you ever are interested in helping out in projects or need help u can add me on discord using user: donnyvaneijk873  You can also find me on twiter with the username: "DonnyGames"
+All other socials will also be on the name DonnyGames OR ShonnyGames
 
 # Happy coding and adios
