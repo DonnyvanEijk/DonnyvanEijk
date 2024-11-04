@@ -2,9 +2,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=DonnyvanEijk&color=brightgreen" alt="watching_count" />
 Hi
-## My skills 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,laravel,figma,discord,dotnet,cs,c,cpp,haxe,python,java,ts,php,mysql)](https://skillicons.dev)
-
 ## My Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=DonnyvanEijk&theme=monokai&hide_border=false)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonnyvanEijk&show_icons=true&theme=dracula)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DonnyvanEijk&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
