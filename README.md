@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=DonnyvanEijk&color=brightgreen" alt="watching_count" />
 
 ## My skills 🫡
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,laravel,figma,discord,dotnet,cs,c,cpp,haxe,python,java,ts,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,laravel,figma,discord,discordjs,nodejs,dotnet,cs,c,cpp,haxe,python,java,ts,php,mysql)](https://skillicons.dev)
 
 ## My Statistics 📈
 [![GitHub Streak](https://streak-stats.demolab.com?user=DonnyvanEijk&theme=monokai&hide_border=false)](https://git.io/streak-stats) 
