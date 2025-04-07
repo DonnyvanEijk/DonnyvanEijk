@@ -3,14 +3,10 @@
 <img src="https://komarev.com/ghpvc/?username=DonnyvanEijk&color=brightgreen" alt="watching_count" />
 
 ## My skills 🫡
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,laravel,figma,discord,discordjs,nodejs,dotnet,cs,c,cpp,haxe,python,java,ts,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,laravel,figma,discord,discordjs,nodejs,dotnet,cs,c,cpp,haxe,python,java,ts,php,mysql,wordpress,pycharm,phpstorm,github)](https://skillicons.dev)
 
 ## My Statistics 📈
 [![GitHub Streak](https://streak-stats.demolab.com?user=DonnyvanEijk&theme=monokai&hide_border=false)](https://git.io/streak-stats) 
-
-## My Trophys 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=DonnyvanEijk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 The developer Donny has been around coding since his young ages 
 he always liked to build stuff and play games on the playstation 3 or wii but was but was always curious
