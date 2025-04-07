@@ -13,8 +13,32 @@ My best work is put troughout my U-ways live streaming service, Shonnylingo the 
 
 I am a magician of javascript and can make up some intresting apps along the way!
 
+## Insight on my best skills
+
+```python
+language = input("What language are you using? ")
+# Language describer!
+match language:
+    case "javascript":
+        print("I am a cooker in the next JS language and use node js to make a lot of other fun projects!")
+    case "python":
+        print("I have fun making a lot of cool desktop apps and API's using python!")
+    case "haxe" | "lua":
+        print("I work on game modding using lua and haxe!")
+    case "wordpress":
+        print("I manage wordpress sites using tools and woocommerce!")
+    case "php":
+        print("I know how to use vanilla php and laravel used for web based applications and web-api's")
+    case "C":
+        print("I know how to make advanced apps using arduino!")
+    case "C#" | "C++":
+        print("In my free time i work on small games to work on in Unity as a example to practice my game developing!")
+    case _: 
+        print("THIS LANGUAGE DOESN'T HAVE EXTRA INFORMATION YET")
+```
+
 #### Socials 🐦
 
 If you would ever be intrested in contacting me u can contact me troughout Discord on the username: ```shonnygames873```
 
-# Happy coding and adios
+# Shonny out
