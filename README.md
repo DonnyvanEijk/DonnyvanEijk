@@ -8,7 +8,7 @@
 ## My Statistics 📈
 [![GitHub Streak](https://streak-stats.demolab.com?user=DonnyvanEijk&theme=monokai&hide_border=false)](https://git.io/streak-stats) 
 
-Hi im Donny, a 18 year old developer from the Netherlands that LOVES to make fullstack projects and funny tools to work with!!
+Hi im Donny, a 19 year old developer from the Netherlands that LOVES to make fullstack projects and funny tools to work with!!
 My best work is put troughout my U-ways live streaming service, Shonnylingo the duolingo clone and Don-Beat the music streaming service! (all ran on free services btw)
 
 I am a magician of javascript and can make up some intresting apps along the way!
