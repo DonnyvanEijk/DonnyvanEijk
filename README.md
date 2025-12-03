@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=DonnyvanEijk&color=brightgreen" alt="watching_count" />
 
 ## My skills 🫡
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,laravel,figma,discord,discordjs,nodejs,dotnet,cs,c,cpp,haxe,python,java,ts,php,mysql,wordpress,pycharm,phpstorm,webstorm,github,deno,aws,flask,redis,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,laravel,figma,discord,discordjs,nodejs,dotnet,cs,c,cpp,haxe,python,java,ts,php,mysql,wordpress,pycharm,phpstorm,webstorm,github,deno,aws,flask,redis,mongodb,sqs)](https://skillicons.dev)
 
 Hi im Donny, a developer from the Netherlands that LOVES to make fullstack projects and funny tools to work with!!
 My best work is put troughout my U-ways live streaming service, Shonnylingo the duolingo clone and Don-Beat the music streaming service! (all ran on free services btw)
