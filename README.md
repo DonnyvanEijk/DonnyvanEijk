@@ -37,8 +37,6 @@ match language:
 
 #### Socials 🐦
 
-If you would ever be intrested in contacting me u can contact me troughout Discord on the username: ```shonnygames873```
-
-Otherwise check out my Linkedin: https://www.linkedin.com/in/donny-van-eijk-036b13258/
+check out my Linkedin: https://www.linkedin.com/in/donny-van-eijk-036b13258/
 
 # Shonny out
